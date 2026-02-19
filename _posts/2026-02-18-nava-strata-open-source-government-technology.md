@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Nava Strata: Open Source Government Technology 🌐"
+title: "Nava Strata: Open Source Government Technology 💻🏛️"
 description: "103"
 category: "podcast"
-tags: ["civictech", "episode", "government", "design", "accessibility", "research"]
+tags: ["civictech", "episode", "government", "open source", "software", "community"]
 comments: true
 ---
 
